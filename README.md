@@ -11,7 +11,7 @@
 
 ## Deskripsi
 
-Website ini adalah hasil freelance kami bertiga yang memuat tampilan timeline kinerja harian pada tahapan PEMILU di BAWASLU. Kami menerima projek ini dari seseorang yang akan digunakan pada kegiatan latsar-nya.
+Website ini adalah hasil project kami bertiga yang bekerja sama dengan bawaslu, dimana pada project tersebut memuat tampilan timeline kinerja harian pada tahapan PEMILU di BAWASLU.
 
 Aplikasi ini dibangun menggunakan **CSS (Cascading Style Sheet)**,**HTML (Hypertext Markup Language)**,**Laravel 8** dan **PHP (Hypertext Preprocessor)**.
 
@@ -22,8 +22,6 @@ Fitur yang ada pada Website Timeline Pemilu:
 1. Carousel
 2. Jenis-jenis pelanggaran dan waktu penanganannya
 3. Tahapan Pemilu 2024
-4. Menghentikan voting dengan klik tombol Vote Selesai pada dashboard
-5. Pemilih hanya dapat memilih 1 kali
 
 ## Langkah-Langkah
 
@@ -50,15 +48,15 @@ Link : [pp.oganilir-bawaslu.com](https://pp.oganilir-bawaslu.com/)
 
 ## Tampilan Admin
 
-![Login](https://user-images.githubusercontent.com/113874200/211324522-7e08a59b-cc39-4b96-956e-8a51a8b4e5cb.png)
-![Dashboard](https://user-images.githubusercontent.com/113874200/211324578-ecb66f88-b6ea-4def-83f1-34854c9f0274.png)
-![Data Akun](https://user-images.githubusercontent.com/113874200/211324603-ed372203-b472-484e-87ff-2fe52c69ce9b.png)
-![Data Paslon](https://user-images.githubusercontent.com/113874200/211324625-1169c51f-9440-4188-8a41-6c90e4d258ad.png)
-
-## Tampilan Pemilih
-
-![Voting](https://user-images.githubusercontent.com/113874200/211324685-b26e06de-d9f5-4d02-aa82-02de856b2a2e.png)
+![Home](https://user-images.githubusercontent.com/122733650/221412774-7304a637-5329-41b3-8c57-b3deea17b3e6.png)
+![Pelanggaran](https://user-images.githubusercontent.com/122733650/221412779-31ba5cf2-af78-4680-8868-1579c7e51670.png)
+![Jadwal](https://user-images.githubusercontent.com/122733650/221412781-6d725645-9239-4b20-9066-5fa7db5265dd.png)
+![Kontak](https://user-images.githubusercontent.com/122733650/221412784-56a03c24-c4fc-424c-a92d-0b2f2f1caae4.png)
+![Penanganan Pelanggaran Administrasi](https://user-images.githubusercontent.com/122733650/221412787-b9192095-520a-4510-8576-efb19dee8776.png)
+![Penanganan Pelanggaran Tindak Pidana](https://user-images.githubusercontent.com/122733650/221412790-0203c9c1-0e0a-40da-afb9-a81260e1a383.png)
+![Penanganan Pelanggaran Kode Etik](https://user-images.githubusercontent.com/122733650/221412794-9ed1da31-dcee-49b0-9c41-7d6c82cdcfc2.png)
+![Penanganan Pelanggaran Perundangan Lainya](https://user-images.githubusercontent.com/122733650/221412795-0a619955-7a2b-40c9-a963-789c6f052b4a.png)
 
 ## Kredit
 
--   Website dibuat pada 12/10/2022 oleh Muhammad Idrus Gimnastiar, Rizal Nugroho dan Wayan
+-   Website dibuat pada 12/10/2022 oleh Muhammad Idrus Gymnastiar, Rizal Nugroho dan Wayan
